@@ -1,5 +1,5 @@
 ## Hello there 👋
-- 🌱 I’m a student from [University of Information Technology](https://www.uit.edu.vn/)
+- 🌱 I’m a student from [University of Information Technology - VNUHCM](https://www.uit.edu.vn/)
 ## 📫 Contact:
 
   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:phithanh003@gmail.com)&emsp;
