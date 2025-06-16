@@ -17,8 +17,7 @@
 - **Serverless Functions:** Vercel
 
 ### 🌐 Front-end (Supportive)
-- ReactJS, Next.js (with SSR/ISR), Angular (basic), TailwindCSS, Ant Design, Shadcn, Styled-Components
-- State Management: Redux Toolkit, Redux Saga, SWR, React Query, tRPC
+- ReactJS, Next.js, Angular (basic), TailwindCSS
 
 ## 📫 Contact:
   Email : phithanh003@gmail.com
